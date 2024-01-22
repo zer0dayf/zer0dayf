@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**zer0dayf/zer0dayf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am Efe. I'm information engineering student at Atilim University.
+<details>
+<summary>My top languages</summary>
 
-Here are some ideas to get you started:
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| C#        |
+|     3| Ruby      |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+<details> 
+<summary>Currently working on</summary>
+
+| Topics                |
+|-----------------------|
+|Kali Linux             |
+|Web Security           |
+|Pentesting             |
+|Malware Analysis       |
+|Python                 |
+|Creating Algorithms    |
+|Game Development       |
+
+</details>
