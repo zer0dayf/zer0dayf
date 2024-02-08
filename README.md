@@ -26,4 +26,3 @@ Hi, I am Efe. I'm information engineering student at Atilim University.
 
 </details>
 
-Still learning...
