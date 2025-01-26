@@ -7,8 +7,8 @@ Hi, I am Efe. I'm information engineering student at Atilim University.
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
-|     2| C#        |
-|     3| Ruby      |
+|     2| C++       |
+|     3| C         |
 
 </details>
 <details> 
